@@ -1,0 +1,17 @@
+{
+  "name": "uiGridTest",
+  "description": "",
+  "main": "",
+  "authors": [
+    "derrickfox <fox.derrick@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-grid": "^3.1.1"
+  },
+  "resolutions": {
+    "angular": "^1.5.6"
+  }
+}
